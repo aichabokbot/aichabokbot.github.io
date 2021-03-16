@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
+title: Aicha BOKBOT # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Science master student @ Ecole Polytechnique and HEC Paris. Passionate about solving business problem using data science techniques.
   <br><br>
-  Second description 
+  My master’s program in Data Science allowed to gain a strong theoretical background in Machine Learning, Deep Learning, Analytics and Statistics. I had the chance to apply this background through various data projects and through a 5-month internship at Untienots last spring. Interning at Untienots confirmed my interest in data science and allowed me to enhance my technical skills and to work in a big data environment with the constraints related to real-life datasets and computing resources. Through all these experiences, I learned to quickly adapt myself to new situations and to continuously update my technical skills. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/aichabokbot/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/aichabokbot">View My Github Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
