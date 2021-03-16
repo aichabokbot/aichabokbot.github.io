@@ -8,7 +8,7 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 
 ---
 
-### \textcolor{red}{Identify the mood of a music track using Deep Learning}
+### > Identify the mood of a music track using Deep Learning
 
 **Goal**: classify the mood of a given song into 4 classes (happy/angry/sad/relaxed)
 
@@ -25,7 +25,7 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 | [Slides]("/pdf/Music.pdf")
 
 ---
-### Improve productivity on construction sites using Computer Vision
+### > Improve productivity on construction sites using Computer Vision
 
 **Data:** data of a construction player in France, which consists of 2,000 pictures taken by 10 cameras deployed in 6 construction sites. The pictures have the following annotations: workers (Bounding box), vertical formworks (Polygon), concrete pump (Polygon)
 
