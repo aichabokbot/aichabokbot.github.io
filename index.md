@@ -2,12 +2,26 @@ I am a Data Science Master student at Ecole Polytechnique and HEC Paris graduati
 
 My master’s program in Data Science allowed me to gain a strong theoretical background in Machine Learning, Deep Learning, Analytics and Statistics. I had the chance to apply this background through various data projects and through a 5-month internship at Untienots last spring. Interning at Untienots confirmed my interest in data science and allowed me to enhance my technical skills and to work in a big data environment with the constraints related to real-life datasets and computing resources. Through all these experiences, I learned to quickly adapt myself to new situations and to continuously update my technical skills.
 
+---
 
 ## Portfolio
 
 ---
 
-### Data Science projects 
+### Improve productivity on construction sites using computer vision
+<img src="images/Chronsite.png?raw=true"/>
+
+**Data:** data of a construction player in France, which consists of 2,000 pictures taken by 10 cameras deployed in 6 construction sites. The pictures have the following annotations: workers [Bounding box], vertical formworks [Polygon], concrete pump [Polygon]
+**Objective:** develop an automatic monitoring solution to improve productivity on construction sites
+**Methodology:** 
+- OBJECT DETECTION: build a model that detects workers, formworks and pumps on images using Mask R-CNN architecture with weights pretrained on COCO dataset
+- ANALYTICS: use output of detection model to identify construction tasks, measure time spent and workers involved in them and compute productivity KPIs
+- OPTIMIZATION: provide recommendations to avoid unproductive scheduling of tasks
+
+[Github repository](https://github.com/aichabokbot/construction_site_optimization)
+| [Slides](/pdf/Group 8 - Chronsite Presentation (2).pdf)
+
+---
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
