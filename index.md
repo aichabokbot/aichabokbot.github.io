@@ -22,7 +22,7 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 - **Web application**: web application where you can enter the name of a song and get the mood predicted by the model
 
 [Github repository](https://github.com/aichabokbot/music_mood_classification)
-| [Slides]("/pdf/Music.pdf")
+| [Slides](/pdf/Music.pdf)
 
 ---
 ### > Improve productivity on construction sites using Computer Vision
@@ -37,35 +37,6 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 - **Optimization**: provide recommendations to avoid unproductive scheduling of tasks
 
 [Github repository](https://github.com/aichabokbot/construction_site_optimization)
-| [Slides]("/pdf/Chronsite.pdf")
+| [Slides](/pdf/Chronsite.pdf)
 
 ---
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-
