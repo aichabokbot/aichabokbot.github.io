@@ -8,7 +8,7 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 
 ---
 
-<span style="color:green"> ### Identify the mood of a music track using Deep Learning <span>
+### \textcolor{red}{Identify the mood of a music track using Deep Learning}
 
 **Goal**: classify the mood of a given song into 4 classes (happy/angry/sad/relaxed)
 
