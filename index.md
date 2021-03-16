@@ -8,12 +8,28 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 
 ---
 
-### Improve productivity on construction sites using computer vision
-<img src="images/Chronsite.png"/>
+### Identify the mood of a music track using Deep Learning
 
-**Data:** data of a construction player in France, which consists of 2,000 pictures taken by 10 cameras deployed in 6 construction sites. The pictures have the following annotations: workers [Bounding box], vertical formworks [Polygon], concrete pump [Polygon]
+**Goal**: classify the mood of a given song into 4 classes (happy/angry/sad/relaxed)
 
-**Objective:** develop an automatic monitoring solution to improve productivity on construction sites
+**Data:** 30s-previews in mp3 édownloaded from the API of Spotify, mood annotations from [last.fm dataset](http://millionsongdataset.com/lastfm/) 
+
+
+**Methodology:** 
+- **Data collection**: download last.fm dataset and filter songs with mood of interest, download 30s-previews of the songs from Spotify
+- **Data Preparation**: convert mp3 into JPG spectrograms
+- **Modeling**: Resnet18 CNN model (not pretrained) on the generated spectograms
+- **Web application**: web application where you can enter the name of a song and get the mood predicted by the model
+
+[Github repository](https://github.com/aichabokbot/music_mood_classification)
+| [Slides]("/pdf/Music.pdf")
+
+---
+### Improve productivity on construction sites using Computer Vision
+
+**Data:** data of a construction player in France, which consists of 2,000 pictures taken by 10 cameras deployed in 6 construction sites. The pictures have the following annotations: workers (Bounding box), vertical formworks (Polygon), concrete pump (Polygon)
+
+**Goal:** develop an automatic monitoring solution to improve productivity on construction sites
 
 **Methodology:** 
 - **Object detection**: build a model that detects workers, formworks and pumps on images using Mask R-CNN architecture with weights pretrained on COCO dataset
