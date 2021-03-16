@@ -2,9 +2,9 @@ I am a Data Science Master student at Ecole Polytechnique and HEC Paris graduati
 
 My master’s program in Data Science allowed me to gain a strong theoretical background in Machine Learning, Deep Learning, Analytics and Statistics. I had the chance to apply this background through various data projects and through a 5-month internship at Untienots last spring. Interning at Untienots confirmed my interest in data science and allowed me to enhance my technical skills and to work in a big data environment with the constraints related to real-life datasets and computing resources. Through all these experiences, I learned to quickly adapt myself to new situations and to continuously update my technical skills.
 
----
 
-## Portfolio
+
+## PORTFOLIO
 
 ---
 
@@ -40,3 +40,16 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 | [Slides](/pdf/Chronsite.pdf)
 
 ---
+### > Diagnose rare diseases
+
+**Data:** data of Amedes, German group of medical centers. There are four types of: patient data (age and sex of the patient), lab test results, doctor's handwritten notes, diagnostic data (intermediary and final diagnosis of the patient)
+
+**Goal**: extract patterns from the data and use it to build a machine learning model that can detect four specific rare diseases among patients (diseases with <1% of prevalence)
+
+**Methodology:** 
+- **Data Cleaning**: clean and homogenize doctors' notes, impute missing values in diagnostic data
+- **Pattern recognition**: research common symptoms and test results used to diagnose the diseases with the most frequent symptoms, test results and co-morbidities among patients with the disease. Create features accordingly
+- **Modeling**: build classification model to predict patient who are likely to have the disease
+
+[Github repository](https://github.com/aichabokbot/rare_disease_detection)
+| [Slides](/pdf/Amedes.pdf)
