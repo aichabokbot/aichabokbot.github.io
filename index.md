@@ -21,7 +21,7 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 - OPTIMIZATION: provide recommendations to avoid unproductive scheduling of tasks
 
 [Github repository](https://github.com/aichabokbot/construction_site_optimization)
-| [Slides]("/pdf/Group 8 - Chronsite Presentation (2).pdf")
+| [Slides]("/pdf/Chronsite.pdf")
 
 ---
 
