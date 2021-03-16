@@ -9,7 +9,7 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 ---
 
 ### Improve productivity on construction sites using computer vision
-<img src="images/Chronsite.png?raw=true"/>
+<img src="images/Chronsite.png"/>
 
 **Data:** data of a construction player in France, which consists of 2,000 pictures taken by 10 cameras deployed in 6 construction sites. The pictures have the following annotations: workers [Bounding box], vertical formworks [Polygon], concrete pump [Polygon]
 
