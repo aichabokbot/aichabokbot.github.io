@@ -1,8 +1,14 @@
+I am a Data Science Master student at Ecole Polytechnique and HEC Paris graduating in 2021.
+My master’s program in Data Science allowed me to gain a strong theoretical background in Machine Learning, Deep Learning, Analytics and Statistics. I had the chance to apply this background through various data projects and through a 5-month internship at Untienots last spring. 
+Interning at Untienots confirmed my interest in data science and allowed me to enhance my technical skills and to work in a big data environment with the constraints related to real-life datasets and computing resources. 
+Through all these experiences, I learned to quickly adapt myself to new situations and to continuously update my technical skills.
+
+
 ## Portfolio
 
 ---
 
-### Category Name 1 
+### Data Science projects 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -31,5 +37,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
