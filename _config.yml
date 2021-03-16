@@ -1,15 +1,15 @@
 title: Aicha BOKBOT # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Science master student @ Ecole Polytechnique and HEC Paris. 
+  Data Science master student at Ecole Polytechnique and HEC Paris. 
   <br><br>
   Passionate about solving business problem using data science techniques.
   <br><br>
-  <a href="/pdf/CV_Aicha_BOKBOT.pdf">View Resume</a>
+  <a href="/pdf/CV_Aicha_BOKBOT.pdf">My Resume</a>
   <br><br>
   <a href="https://www.linkedin.com/in/aichabokbot/">LinkedIn</a> 
   <br>
-  <a href="https://github.com/aichabokbot/">Github   </a> 
+  <a href="https://github.com/aichabokbot/">Github</a> 
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
