@@ -16,9 +16,9 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 **Objective:** develop an automatic monitoring solution to improve productivity on construction sites
 
 **Methodology:** 
-- OBJECT DETECTION: build a model that detects workers, formworks and pumps on images using Mask R-CNN architecture with weights pretrained on COCO dataset
-- ANALYTICS: use output of detection model to identify construction tasks, measure time spent and workers involved in them and compute productivity KPIs
-- OPTIMIZATION: provide recommendations to avoid unproductive scheduling of tasks
+- **Object detection**: build a model that detects workers, formworks and pumps on images using Mask R-CNN architecture with weights pretrained on COCO dataset
+- **Analytics**: use output of detection model to identify construction tasks, measure time spent and workers involved in them and compute productivity KPIs
+- **Optimization**: provide recommendations to avoid unproductive scheduling of tasks
 
 [Github repository](https://github.com/aichabokbot/construction_site_optimization)
 | [Slides]("/pdf/Chronsite.pdf")
