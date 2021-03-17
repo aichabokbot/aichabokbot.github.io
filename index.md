@@ -40,9 +40,9 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 | [Slides](/pdf/Chronsite.pdf)
 
 ---
+###  > Diagnose rare diseases 
 <details>
-  
-### <summary>  > Diagnose rare diseases </summary>
+<summary> Project </summary>
 <p>
 ```c#
   
