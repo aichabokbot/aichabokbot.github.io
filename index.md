@@ -8,8 +8,12 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 
 ---
 
-### > Identify the mood of a music track using Deep Learning
+### Identify the mood of a music track using Deep Learning
 
+<details>
+<summary> Project description </summary>
+<p>
+  
 **Goal**: classify the mood of a given song into 4 classes (happy/angry/sad/relaxed)
 
 **Data:** 30s-previews in mp3 downloaded from the API of Spotify, mood annotations from [last.fm dataset](http://millionsongdataset.com/lastfm/) 
@@ -21,12 +25,19 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 - **Modeling**: Resnet18 CNN model (not pretrained) on the generated spectograms
 - **Web application**: web application where you can enter the name of a song and get the mood predicted by the model
 
+</p>
+</details>
+
 [Github repository](https://github.com/aichabokbot/music_mood_classification)
 | [Slides](/pdf/Music.pdf)
 
 ---
-### > Improve productivity on construction sites using Computer Vision
+### Improve productivity on construction sites using Computer Vision
 
+<details>
+<summary> Project description </summary>
+<p>
+  
 **Data:** data of a construction player in France, which consists of 2,000 pictures taken by 10 cameras deployed in 6 construction sites. The pictures have the following annotations: workers (Bounding box), vertical formworks (Polygon), concrete pump (Polygon)
 
 **Goal:** develop an automatic monitoring solution to improve productivity on construction sites
@@ -36,15 +47,17 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 - **Analytics**: use output of detection model to identify construction tasks, measure time spent and workers involved in them and compute productivity KPIs
 - **Optimization**: provide recommendations to avoid unproductive scheduling of tasks
 
+</p>
+</details>
+
 [Github repository](https://github.com/aichabokbot/construction_site_optimization)
 | [Slides](/pdf/Chronsite.pdf)
 
 ---
-###  > Diagnose rare diseases 
+###  Diagnose rare diseases 
 <details>
-<summary> Project </summary>
+<summary> Project description </summary>
 <p>
-```c#
   
 **Data:** data of Amedes, German group of medical centers. There are four types of: patient data (age and sex of the patient), lab test results, doctor's handwritten notes, diagnostic data (intermediary and final diagnosis of the patient)
 
@@ -55,9 +68,11 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 - **Pattern recognition**: research common symptoms and test results used to diagnose the diseases with the most frequent symptoms, test results and co-morbidities among patients with the disease. Create features accordingly
 - **Modeling**: build classification model to predict patient who are likely to have the disease
 
+</p>
+</details>
+
 [Github repository](https://github.com/aichabokbot/rare_disease_detection)
 | [Slides](/pdf/Amedes.pdf)
 
 
-</p>
-</details>
+
