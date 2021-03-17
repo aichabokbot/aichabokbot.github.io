@@ -12,17 +12,22 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 
 <details>
 <summary> Project description </summary>
-  
-  **Goal**: classify the mood of a given song into 4 classes (happy/angry/sad/relaxed)
+<p>
 
-  **Data:** 30s-previews in mp3 downloaded from the API of Spotify, mood annotations from [last.fm dataset](http://millionsongdataset.com/lastfm/) 
+```c#
+**Goal**: classify the mood of a given song into 4 classes (happy/angry/sad/relaxed)
+
+**Data:** 30s-previews in mp3 downloaded from the API of Spotify, mood annotations from [last.fm dataset](http://millionsongdataset.com/lastfm/) 
 
 
-  **Methodology:** 
-  - **Data collection**: download last.fm dataset and filter songs with mood of interest, download 30s-previews of the songs from Spotify
-  - **Data Preparation**: convert mp3 into JPG spectrograms
-  - **Modeling**: Resnet18 CNN model (not pretrained) on the generated spectograms
-  - **Web application**: web application where you can enter the name of a song and get the mood predicted by the model
+**Methodology:** 
+- **Data collection**: download last.fm dataset and filter songs with mood of interest, download 30s-previews of the songs from Spotify
+- **Data Preparation**: convert mp3 into JPG spectrograms
+- **Modeling**: Resnet18 CNN model (not pretrained) on the generated spectograms
+- **Web application**: web application where you can enter the name of a song and get the mood predicted by the model
+```
+
+</p>
 </details>
 
 
