@@ -11,7 +11,7 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 ### Identify the mood of a music track using Deep Learning
 
 <details>
-<summary> Project description </summary>
+<summary> Project description </summary><p>
 
 
 **Goal**: classify the mood of a given song into 4 classes (happy/angry/sad/relaxed)
@@ -25,7 +25,7 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 - **Modeling**: Resnet18 CNN model (not pretrained) on the generated spectograms
 - **Web application**: web application where you can enter the name of a song and get the mood predicted by the model
 
-</details>
+</p></details>
 
 
 
