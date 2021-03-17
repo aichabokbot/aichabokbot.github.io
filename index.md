@@ -14,6 +14,7 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 <summary> Project description </summary><p>
 
 
+aaa
 **Goal**: classify the mood of a given song into 4 classes (happy/angry/sad/relaxed)
 
 **Data:** 30s-previews in mp3 downloaded from the API of Spotify, mood annotations from [last.fm dataset](http://millionsongdataset.com/lastfm/) 
