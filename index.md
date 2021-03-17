@@ -12,7 +12,6 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 
 <details>
 <summary> Project description </summary>
-<p>
 
 
 **Goal**: classify the mood of a given song into 4 classes (happy/angry/sad/relaxed)
