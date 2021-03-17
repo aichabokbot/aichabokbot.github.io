@@ -9,7 +9,6 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 ---
 
 ### Identify the mood of a music track using Deep Learning
-{: style="color: red; opacity: 0.80;" }
 
 <details><summary> Project description </summary><p>
 
