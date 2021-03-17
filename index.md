@@ -41,9 +41,11 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 
 ---
 <details>
-<summary> ### > Diagnose rare diseases </summary>
+  
+### <summary>  > Diagnose rare diseases </summary>
 <p>
 ```c#
+  
 **Data:** data of Amedes, German group of medical centers. There are four types of: patient data (age and sex of the patient), lab test results, doctor's handwritten notes, diagnostic data (intermediary and final diagnosis of the patient)
 
 **Goal**: extract patterns from the data and use it to build a machine learning model that can detect four specific rare diseases among patients (diseases with <1% of prevalence)
