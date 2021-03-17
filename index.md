@@ -27,8 +27,7 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 - **Web application**: web application where you can enter the name of a song and get the mood predicted by the model
 
 
-</p>
-</details>
+
 
 
 [Github repository](https://github.com/aichabokbot/music_mood_classification)
