@@ -26,7 +26,7 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 - **Modeling**: Resnet18 CNN model (not pretrained) on the generated spectograms
 - **Web application**: web application where you can enter the name of a song and get the mood predicted by the model
 
-
+</details>
 
 
 
