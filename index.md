@@ -75,8 +75,8 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 **Data:** 1504 Time-Series with daily granularity across 6 different asset classes (Bonds, CDS Spread, Commodities, FX Rates, Stocks, Yield Curves). The dataset contains c. 5% of missing values
 
 **Methodology:** 
-- **Baseline model**: Last Value Carried Forward (which infer missing values by using the last non missing value)
-- **Pre-processing**: create a validation set for the missing values imputation model
+- **Baseline model**: Last Value Carried Forward 
+- **Pre-processing**: creation of a validation set for the missing values imputation model
 - **Modeling**: implementation of three models selected from litterature review: LLS Impute, BayesianPCA, ImputeFin
 
 </p></details>
