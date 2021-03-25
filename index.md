@@ -67,7 +67,7 @@ My master’s program in Data Science allowed me to gain a strong theoretical ba
 | [Slides](/pdf/Amedes.pdf)
 
 ---
-###  Missing values imputation 
+###  Missing values imputation of financial Time-Series
 <details><summary> Project description </summary><p>
   
 **Goal**: establish an optimal, robust method to impute missing data in Financial Time-Series
